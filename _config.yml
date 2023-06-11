@@ -95,13 +95,6 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-  repo: "",
-  repoId: "",
-  category: "Q&A",
-  categoryId: "DIC_kwDOJjuW0M4CWtGK",
-  theme: "preferred_color_scheme",
-  mapping: "pathname",
-  lang: "en",
 
   giscus:
     repo: liurongqing/liurongqing.github.io
