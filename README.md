@@ -2,5 +2,5 @@
 
 ```shell
 # 本地调试
-bundle exec jekyll s
+bundle exec jekyll serve
 ```
